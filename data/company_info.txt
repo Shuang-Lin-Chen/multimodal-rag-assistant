@@ -1,0 +1,4 @@
+Hyper Island is a learning institution focused on digital growth and innovation.
+The RAG test asks candidates to build a small application using Python and LangChain.
+The application should include a retriever node, a generation node, and a hallucination node.
+The final project should be uploaded to GitHub within 24 hours.
