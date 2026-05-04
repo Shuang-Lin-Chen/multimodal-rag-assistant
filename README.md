@@ -57,27 +57,3 @@ Create a `.env` file in the project root:
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 ```
-
-## Usage
-
-Add usage examples and code snippets here
-
-## Architecture
-
-Add system architecture and component descriptions
-
-## Configuration Options
-
-Add detailed configuration parameters
-
-## Contributing
-
-Contributions are welcome. Please follow standard GitHub workflows for pull requests.
-
-## License
-
-Specify your license
-
-## Contact
-
-For questions or issues, please open a GitHub issue or contact the maintainers.
